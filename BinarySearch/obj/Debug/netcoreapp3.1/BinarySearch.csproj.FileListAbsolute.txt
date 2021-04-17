@@ -1,0 +1,13 @@
+E:\Others\Algo\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+E:\Others\Algo\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+E:\Others\Algo\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+E:\Others\Algo\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+E:\Others\Algo\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+E:\Others\Algo\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+E:\Others\Algo\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csprojAssemblyReference.cache
+E:\Others\Algo\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+E:\Others\Algo\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+E:\Others\Algo\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Others\Algo\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+E:\Others\Algo\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+E:\Others\Algo\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
